@@ -1,18 +1,17 @@
 image: "src/assets/me.jpg"
 name: "Keza Yassin"
-bio: "Am Yassin, a guy who just likes understanding how things work from a first stance."
+bio: "Am Keza, a guy who just likes understanding how things work from a first stance. But sure curious about lots of things"
 
 personal_philosophy:
   - "Experimentation is key to understanding"
   - "Simplicity and efficiency should be at the core of building"
-  - "Open-endedness exploration ✅ , Objective-driven exploration ❌"
+  - "Open-endedness exploration ✅ , Objective-driven exploration ❌, well never mind why this is here anyway"
  
 hobbies:
   tech_related:
-    - "I am deeply interested deep-learning 😲😲"
-    - "I interested in understanding scalable infrastructure"
-    - "I can't get the data inefficiency in LLMs 🤯🤯🤯"
-    - "I am interested into social networks too, chiefly in the age of AI"
+    - "I am deeply interested deep-learning 😲😲 though its more of blackbox to me 🤯🤯🤯 so is technology"
+    - "Am professional AI Red Team like mostly I do cover mostly lots prompt injection, data exfil and so much more ..."
+    - "By the way I do make money from this you can checkout the programs below "
   
   creative_pursuits:
     - "A little bit maybe of a writer, still not yet figured it out"
@@ -20,12 +19,11 @@ hobbies:
     
   offline_interests:
     - "Amatuer mathematics contribution, did olympiad math back in high school but hit the national level two times, ma bad 😔😔"
-    - "Watching Anime, still requires to be online sometimes ma bad."
     - "Reading books, three types mainly, fictional, computing and evolution"
   
 
 current_explorations:
-  - "Experimenting with building the right communication interface between we and AI"
+  - "Experimenting with building the right communication interface between we and AI, well atleast my thats what I believe am doing, not sure though "
   - "Exploring the union of intelligence, objective and evelotion ie
       ∣I∪O∪E∣=∣I∣+∣O∣+∣E∣−∣I∩O∣−∣O∩E∣−∣E∩I∣+∣I∩O∩E∣"
   - "Trying not to die before the Doomsday 😂😂😂"
